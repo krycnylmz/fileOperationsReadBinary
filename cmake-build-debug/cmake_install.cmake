@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/PC/Desktop/Lessons/2023/2213-DataStructures/Training/Prelab11
+# Install script for directory: C:/Users/PC/Desktop/Lessons/2023/2213-DataStructures/Training/Prelab11/fileOperationsReadBinary
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/PC/Desktop/Lessons/2023/2213-DataStructures/Training/Prelab11/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/PC/Desktop/Lessons/2023/2213-DataStructures/Training/Prelab11/fileOperationsReadBinary/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

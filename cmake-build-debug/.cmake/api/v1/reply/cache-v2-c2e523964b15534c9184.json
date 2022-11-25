@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/PC/Desktop/Lessons/2023/2213-DataStructures/Training/Prelab11/cmake-build-debug"
+			"value" : "c:/Users/PC/Desktop/Lessons/2023/2213-DataStructures/Training/Prelab11/fileOperationsReadBinary/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -479,7 +479,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/PC/Desktop/Lessons/2023/2213-DataStructures/Training/Prelab11"
+			"value" : "C:/Users/PC/Desktop/Lessons/2023/2213-DataStructures/Training/Prelab11/fileOperationsReadBinary"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1095,7 +1095,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/PC/Desktop/Lessons/2023/2213-DataStructures/Training/Prelab11/cmake-build-debug"
+			"value" : "C:/Users/PC/Desktop/Lessons/2023/2213-DataStructures/Training/Prelab11/fileOperationsReadBinary/cmake-build-debug"
 		},
 		{
 			"name" : "Prelab11_IS_TOP_LEVEL",
@@ -1119,7 +1119,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/PC/Desktop/Lessons/2023/2213-DataStructures/Training/Prelab11"
+			"value" : "C:/Users/PC/Desktop/Lessons/2023/2213-DataStructures/Training/Prelab11/fileOperationsReadBinary"
 		}
 	],
 	"kind" : "cache",

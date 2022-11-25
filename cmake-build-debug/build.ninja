@@ -39,7 +39,7 @@ include CMakeFiles/rules.ninja
 #############################################
 # Logical path to working directory; prefix for absolute paths.
 
-cmake_ninja_workdir = C$:/Users/PC/Desktop/Lessons/2023/2213-DataStructures/Training/Prelab11/cmake-build-debug/
+cmake_ninja_workdir = C$:/Users/PC/Desktop/Lessons/2023/2213-DataStructures/Training/Prelab11/fileOperationsReadBinary/cmake-build-debug/
 # =============================================================================
 # Object build statements for EXECUTABLE target Prelab11
 
@@ -49,7 +49,7 @@ cmake_ninja_workdir = C$:/Users/PC/Desktop/Lessons/2023/2213-DataStructures/Trai
 
 build cmake_object_order_depends_target_Prelab11: phony || CMakeFiles/Prelab11.dir
 
-build CMakeFiles/Prelab11.dir/main.c.obj: C_COMPILER__Prelab11_Debug C$:/Users/PC/Desktop/Lessons/2023/2213-DataStructures/Training/Prelab11/main.c || cmake_object_order_depends_target_Prelab11
+build CMakeFiles/Prelab11.dir/main.c.obj: C_COMPILER__Prelab11_Debug C$:/Users/PC/Desktop/Lessons/2023/2213-DataStructures/Training/Prelab11/fileOperationsReadBinary/main.c || cmake_object_order_depends_target_Prelab11
   DEP_FILE = CMakeFiles\Prelab11.dir\main.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\Prelab11.dir
@@ -81,7 +81,7 @@ build Prelab11.exe: C_EXECUTABLE_LINKER__Prelab11_Debug CMakeFiles/Prelab11.dir/
 # Utility command for edit_cache
 
 build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D C:\Users\PC\Desktop\Lessons\2023\2213-DataStructures\Training\Prelab11\cmake-build-debug && "C:\Program Files\JetBrains\CLion 2022.2.3\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
+  COMMAND = cmd.exe /C "cd /D C:\Users\PC\Desktop\Lessons\2023\2213-DataStructures\Training\Prelab11\fileOperationsReadBinary\cmake-build-debug && "C:\Program Files\JetBrains\CLion 2022.2.3\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
   DESC = No interactive CMake dialog available...
   restat = 1
 
@@ -92,7 +92,7 @@ build edit_cache: phony CMakeFiles/edit_cache.util
 # Utility command for rebuild_cache
 
 build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D C:\Users\PC\Desktop\Lessons\2023\2213-DataStructures\Training\Prelab11\cmake-build-debug && "C:\Program Files\JetBrains\CLion 2022.2.3\bin\cmake\win\bin\cmake.exe" --regenerate-during-build -SC:\Users\PC\Desktop\Lessons\2023\2213-DataStructures\Training\Prelab11 -BC:\Users\PC\Desktop\Lessons\2023\2213-DataStructures\Training\Prelab11\cmake-build-debug"
+  COMMAND = cmd.exe /C "cd /D C:\Users\PC\Desktop\Lessons\2023\2213-DataStructures\Training\Prelab11\fileOperationsReadBinary\cmake-build-debug && "C:\Program Files\JetBrains\CLion 2022.2.3\bin\cmake\win\bin\cmake.exe" --regenerate-during-build -SC:\Users\PC\Desktop\Lessons\2023\2213-DataStructures\Training\Prelab11\fileOperationsReadBinary -BC:\Users\PC\Desktop\Lessons\2023\2213-DataStructures\Training\Prelab11\fileOperationsReadBinary\cmake-build-debug"
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -110,7 +110,7 @@ build Prelab11: phony Prelab11.exe
 # =============================================================================
 
 #############################################
-# Folder: C:/Users/PC/Desktop/Lessons/2023/2213-DataStructures/Training/Prelab11/cmake-build-debug
+# Folder: C:/Users/PC/Desktop/Lessons/2023/2213-DataStructures/Training/Prelab11/fileOperationsReadBinary/cmake-build-debug
 
 build all: phony Prelab11.exe
 
